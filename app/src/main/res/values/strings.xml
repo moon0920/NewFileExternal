@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">NewFileExternal</string>
+    <string name="editTextinput">입력하세요</string>
+    <string name="btnread">File Read From Public Outer</string>
+    <string name="btnwrite">File Write From Public Outer</string>
+</resources>
